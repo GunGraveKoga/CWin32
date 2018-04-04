@@ -1,0 +1,5 @@
+module CWin32 [system] {
+    header "shim.h"
+    
+    export *
+}
